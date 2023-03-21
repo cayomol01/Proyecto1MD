@@ -1,0 +1,17 @@
+Tasa de mortalidad por diabetes mellitus por cada 100,00 habitantes -> diabetes_mellitus.xlsx
+
+Número de matrimonios por departamento de ocurrencia -> matrimonios
+
+Porcentaje de nacimientos con atención médica Por departamento -> porcentaje_nacimientos
+
+Tasa de mortalidad infantil por cada 1,000 nacidos vivos Por departamento -> tasaMortalidadInfantil
+
+Número de nacimientos Por departamento de residencia de la madre -> NacimientosResidenciaMadre
+
+Tasa de mortalidad por causas externas por 100,000 habitantes Por departamento -> MortalidadExterna
+
+Porcentaje de niños con bajo peso al nacer Por departamento -> PorcentajePesoNacer
+
+Tasa de mortalidad por VIH/SIDA (B20-B24) por 100,000 habitantes Por departamento -> MortalidadVIH_SIDA
+
+Número de divorcios Por departamento de ocurrencia -> Divorcios
