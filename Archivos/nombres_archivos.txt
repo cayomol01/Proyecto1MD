@@ -1,4 +1,4 @@
-Tasa de mortalidad por diabetes mellitus por cada 100,00 habitantes -> diabetes_mellitus.xlsx
+Tasa de mortalidad por diabetes mellitus por cada 100,00 habitantes -> diabetes_mellitus
 
 Número de matrimonios por departamento de ocurrencia -> matrimonios
 
@@ -15,3 +15,5 @@ Porcentaje de niños con bajo peso al nacer Por departamento -> PorcentajePesoNa
 Tasa de mortalidad por VIH/SIDA (B20-B24) por 100,000 habitantes Por departamento -> MortalidadVIH_SIDA
 
 Número de divorcios Por departamento de ocurrencia -> Divorcios
+
+Número de defunciones Por departamento de residencia del difunto (a) -> defunciones
